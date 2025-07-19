@@ -29,21 +29,21 @@
         "ADMIN": {6300548815
             "description":"Add Your User ID multiple is use space to split"
         },
-        "LOG_CHANNEL": {
+        "LOG_CHANNEL": {https://t.me/+ocdhmQY90XlmNzk1
             "description":"Bot Log Sending Channel (just create a private channel and add bot to admin and take channel id to add this variable) ⚠️ id startswith -100 must",
             "required": false           
         },
-        "DB_URL": {
+        "DB_URL": {mongodb+srv://vk63692543:varun@varunkumaran.sbzhefr.mongodb.net/?retryWrites=true&w=majority&appName=Varunkumaran
             "description": "Your Mongo DB URL Obtained From mongodb.com",
             "value": ""
         },
-        "DB_NAME":{ 
+        "DB_NAME":{ vk63692543
             "description":"Your Mongo DB Database Name ",
             "value": "",
             "required": false
         },
-        "START_PIC": {
-            "description": "Your Bot start cmd Pic from @MT_TelegraPH_Bot",
+        "START_PIC": { https://envs.sh/btN.jpg
+            "description": "Your Bot start cmd Pic from @Anime_in_Action",
             "value": "",
             "required": false
         }
