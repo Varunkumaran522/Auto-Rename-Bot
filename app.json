@@ -1,32 +1,32 @@
 {
     "name": "Auto Renamer Bot",
     "description": "Telegram Auto File Renamer Bot ",
-    "logo": "https://graph.org/file/2f461540c83b362772714.jpg",
+    "logo": "https://t.me/+ocdhmQY90XlmNzk1",
     "keywords": ["Auto Renamer Bot", "Mongo DB"],    
     "repository": "https://github.com/JishuDeveloper/Auto-Rename-Bot",
     "env": {
-        "API_ID": {
+        "API_ID": {25943549
             "description": "Your APP ID From my.telegram.org ",
             "value": ""
         },
-        "API_HASH": {
+        "API_HASH": {bd7960c74ffdff6f8e84328aa7f2d7da
             "description": "Your API Hash From my.telegram.org ",
             "value": ""
         },
-        "WEBHOOK": {
+    
             "description": "if your server is need web service! value = True else value = False",
             "value": "False"
         },
-        "FORCE_SUB": {
+        "FORCE_SUB": {https://t.me/+ocdhmQY90XlmNzk1
             "description": "Your force sub channel user name without [@] ",
             "value": "",
             "required": false 
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {8174304470:AAF49E9HNuPk7nMZnxU0EwPkDDNQSXvQEmc
             "description": "Your Bot Token From @BotFather",
             "value": ""
         },
-        "ADMIN": {
+        "ADMIN": {6300548815
             "description":"Add Your User ID multiple is use space to split"
         },
         "LOG_CHANNEL": {
